@@ -1,0 +1,54 @@
+{
+  "started_dubai": "2026-11-06 21:47:51 +04",
+  "unique_pages_http_200": 30,
+  "unique_page_failures": 4,
+  "page_failure_urls": [
+    "https://wellnessoriginindy.com/cdn-cgi/l/email-protection",
+    "https://wellnessoriginindy.com/services/waxing/",
+    "https://wellnessoriginindy.com/spa-sales-memberships/",
+    "https://wellnessoriginindy.com/spa-services/lashes-and-brows/"
+  ],
+  "markdown_files": 30,
+  "raw_html_files": 30,
+  "image_files": 86,
+  "decodable_images": 86,
+  "css_files": 57,
+  "js_files": 21,
+  "pdf_files": 0,
+  "asset_files_total": 78,
+  "largest_images": [
+    {
+      "file": "c035e156cf_IMG_1576.jpeg",
+      "wxh": "4284x5712"
+    },
+    {
+      "file": "7382417166_67982d601bd957768568a5f5_IMG_5758.jpeg",
+      "wxh": "4032x3024"
+    },
+    {
+      "file": "74329de74c_removes-the-tattoo.jpg",
+      "wxh": "2560x1703"
+    },
+    {
+      "file": "909ad989a7_african-american-woman-getting-spa-treatment-in-he-2022-12-16-06-44-20-utc.jpg",
+      "wxh": "1920x1280"
+    },
+    {
+      "file": "7037ef9c17_thai-body-massage-enjoying-massage-smiling-girl-2022-12-16-07-11-04-utc.jpg",
+      "wxh": "1920x1280"
+    },
+    {
+      "file": "51b30b8b24_foot-massage-closeup-and-relax-with-spa-therapist-2023-07-20-19-28-08-utc.jpg",
+      "wxh": "1920x1280"
+    },
+    {
+      "file": "b361865f38_black-man-spa-and-body-massage-for-couple-wellnes-2022-12-22-20-01-31-utc.jpg",
+      "wxh": "1920x1280"
+    },
+    {
+      "file": "bce37727ab_beautiful-woman-relaxing-in-spa-salon-with-hot-sto-2021-08-26-18-24-39-utc.jpg",
+      "wxh": "1920x1280"
+    }
+  ],
+  "dir_bytes": 20332063
+}

@@ -1,0 +1,14 @@
+# Redirect map (original → prototype local path)
+# Preserve original URL paths as folders with index.html.
+# Live broken (archive non-200) — no local page; document only:
+#   /spa-services/lashes-and-brows/  →  (omit; was 404)
+#   /services/waxing/                →  mentioned on spa-services copy only
+#   /spa-sales-memberships/          →  use /spa-sales/
+#   /cdn-cgi/l/email-protection      →  not a content page
+#
+# Author / category kept for SEO parity:
+#   /author/ericadmin/ → author/ericadmin/index.html
+#   /category/treatments/ → category/treatments/index.html
+#
+# Homepage:
+#   / → index.html
