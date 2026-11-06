@@ -1,0 +1,20 @@
+{
+  "desktop_top": {
+    "logoH": 80,
+    "logoW": 76.3,
+    "headerH": 100,
+    "gapBrandNav": 491.4,
+    "overlap": false
+  },
+  "desktop_scrolled": {
+    "logoH": 56,
+    "logoW": 53.4,
+    "headerH": 72,
+    "scrolledClass": true
+  },
+  "mobile_top": {
+    "logoH": 52,
+    "logoW": 49.6,
+    "headerH": 68
+  }
+}

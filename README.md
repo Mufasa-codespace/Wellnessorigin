@@ -18,7 +18,7 @@ The `redesign/` tree is a local review prototype with one HTML page per current 
 - Active logo on all 30 pages (header, footer, favicon, and Open Graph): `redesign/images/brand/logo-botanical.png`. That file matches `branding/primary-logo-transparent.png`.
 - Cream/white export of the same mark: `branding/primary-logo.png` (also stored as `redesign/images/brand/logo-botanical-bg.png`). Pages do not use it in the header or footer.
 - Archived wide logo, not used in the redesign UI: `branding/original-logo.png` and `redesign/images/brand/archive/original-logo.png`.
-- **Pending:** the near-square botanical wordmark is too small in the desktop header. The local builder is fixing that separately. Do not treat the current header size as final.
+- Desktop header logo is 80px tall in a 100px header (scrolled 56px / 72px, mobile 52px / 68px). CSS-only change; the logo PNG is unchanged. See `redesign/QA/CHANGES-logo-fix.md`. The review build is still not a pixel-perfect final site.
 - Contact form on `redesign/contact/` is **review-only**. It does not submit anywhere.
 - **No field Core Web Vitals** were measured. `redesign/QA/lighthouse-home.json` is a lab Lighthouse run against a local static server only.
 - QA notes and screenshots: `redesign/QA/`.

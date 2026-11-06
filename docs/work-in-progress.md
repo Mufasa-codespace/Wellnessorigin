@@ -34,7 +34,7 @@ The user selected **Concept 02 — botanical wellness** as the primary logo for 
 
 Header, footer, and mobile header rules in `redesign/css/site.css` size that mark with a fixed height, `width: auto`, and `object-fit: contain`. No invert filter is applied. `source-snapshot/` was not edited to use this logo.
 
-**Known pending issue:** on desktop the header draws the near-square mark at about 56×56 CSS pixels, so the wordmark is too small to read comfortably. The local builder is fixing that separately. This import does not claim a pixel-perfect header.
+Header logo sizing was updated in CSS only (`redesign/css/site.css`). The botanical PNG files were not changed. Desktop default is an 80px logo in a 100px header; scrolled is 56px in a 72px header; mobile is 52px in a 68px header. Measured values and screenshots: `redesign/QA/CHANGES-logo-fix.md`, `redesign/QA/logo-heights.json`, `redesign/QA/screenshots/`. The review build is still not a pixel-perfect final site.
 
 ### Known review limits
 
