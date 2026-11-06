@@ -37,4 +37,4 @@ Active mark: `images/brand/logo-botanical.png` (nearly square, transparent PNG).
 Archived (do not use in UI): `images/brand/archive/original-logo.png`.  
 Header/footer CSS sizes the mark by height with `object-fit: contain` so proportions stay intact; no invert filter on the footer (keeps botanical colors).
 
-The desktop header currently draws that near-square mark at about 56×56 CSS pixels, so the wordmark is too small. That size is a known pending fix and is not the final header.
+Desktop header logo height is 80px inside a 100px header (scrolled 56px / 72px; mobile 52px / 68px). See `QA/CHANGES-logo-fix.md`. The logo PNG was not changed. This is still a review build, not a pixel-perfect final site.
